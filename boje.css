@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+p {
+    color: blue;
+	font-family: Arial; 
+	margin-left: 65 px;
+	margin-right: 65 px;
+}
+l {
+	color: yellow;
+	font-family: Arial; 
+	margin-left: 35 px; 
+}
+ol{ 
+    color: rose;
+	font-family: Arial;
+	margin-left: 25 px;
+}
+h1{
+	color: pink;
+	font-family: Arial;
+	font-style: italic;
+}
+body {
+	background: black;
+		
+}
+h2{
+	color:white;
+	font-family: Arial;
+	
+}
+h3 {
+	color:blue;
+}
