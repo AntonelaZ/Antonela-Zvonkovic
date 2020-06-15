@@ -1,0 +1,363 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+    <version>190219</version>
+    <url>C:\Users\korisnik\Desktop\KOLOKVIJ DM\KOLOKVIJ VIDEO.ove</url>
+    <folders/>
+    <media>
+        <footage id="1" folder="0" name="MVI_2512.MOV" url="D:/Dokumenti/PUTOVANJA/ŠVEDSKA/MVI_2512.MOV" duration="55680625" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="23.9760239760" infinite="0"/>
+            <audio id="1" channels="2" layout="3" frequency="48000"/>
+        </footage>
+        <footage id="2" folder="0" name="SLIKA2.png" url="SLIKA%1d.png" duration="40000" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="2" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="25.0000000000" infinite="0"/>
+        </footage>
+        <footage id="3" folder="0" name="GIMPpng.png" url="GIMPpng.png" duration="0" using_inout="0" in="0" out="0" speed="1" alphapremul="0" startnumber="0" proxy="0" proxypath="">
+            <video id="0" width="1920" height="1080" framerate="0.0000000000" infinite="1"/>
+        </footage>
+    </media>
+    <sequences>
+        <sequence id="1" folder="0" name="Sequence 01" width="1920" height="1080" framerate="29.9700000000" afreq="48000" alayout="3" open="1" workarea="0" workareaIn="0" workareaOut="0">
+            <clip id="0" enabled="1" name="MVI_2512.MOV" clipin="1303" in="37" out="251" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="1" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100">
+                            <key value="0" frame="1303" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="100" frame="1318" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="1" enabled="1" name="MVI_2512.MOV" clipin="1517" in="251" out="402" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="1" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="0">
+                            <key value="100" frame="1544" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="0" frame="1656" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="2" enabled="1" name="GIMPpng.png" clipin="0" in="74" out="200" track="-2" r="192" g="160" b="128" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="3" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="3" enabled="1" name="MVI_2512.MOV" clipin="604" in="402" out="1098" track="-1" r="128" g="128" b="192" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0" type="0" media="1" stream="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="-1">
+                            <key value="0" frame="742" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="-1" frame="827" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="359.996" frame="743" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="3">
+                            <key value="0" frame="862" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="3" frame="943" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="-646.963" frame="863" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="3" frame="1161" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="3" frame="1250" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="0" frame="1195" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                        <field id="anchory" value="203">
+                            <key value="0" frame="862" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="0" frame="943" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="-3" frame="944" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="203" frame="1161" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="203" frame="1250" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="-11" frame="1195" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="4" enabled="1" name="Title" clipin="0" in="220" out="322" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="1090"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="3.42433">
+                            <key value="91" frame="304" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="-0.458333" frame="92" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="132"/>
+                        <field id="anchory" value="6"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Ravie'; font-size:36pt; color:#ffffff;&quot;&gt;Antonela Zvonković-Digitalni multimedij 1&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="-114"/>
+                        <field id="posy" value="493"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="132"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="1"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#ffff00"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="25"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="5"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="11"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="5" enabled="1" name="Title" clipin="-142" in="1068" out="1393" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100">
+                            <key value="100" frame="-50" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                            <key value="100" frame="-1" type="0" prehx="-40" prehy="0" posthx="40" posthy="0"/>
+                        </field>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Arial Black'; font-size:45.8pt; font-weight:504; color:#ffffff;&quot;&gt;Mikula se ljulja&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Arial Black'; font-size:45.8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Arial Black'; font-size:45.8pt;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Arial Black'; font-size:45.8pt; font-weight:504; color:#ffffff;&quot;&gt;U Švedskoj je nastao ovaj filmić, odnosno ovo &lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Arial Black'; font-size:45.8pt; font-weight:504; color:#ffffff;&quot;&gt;je samo jedan video iz filma &lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-family:'Arial Black'; font-size:45.8pt; font-weight:504; color:#ffffff;&quot;&gt;kojeg sam snimala. Snimali smo u Ludviki. Nezaboravno iskustvo.&lt;/span&gt;&lt;/p&gt;&#10;&lt;p align=&quot;center&quot; style=&quot;-qt-paragraph-type:empty; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px; font-family:'Arial Black'; font-size:45.8pt; font-weight:504; color:#ffffff;&quot;&gt;&lt;br /&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="13"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="38"/>
+                        <field id="posy" value="-367"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="132"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="1"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="24"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="58"/>
+                    </row>
+                </effect>
+            </clip>
+            <clip id="6" enabled="1" name="Title" clipin="-28" in="9" out="61" track="-2" r="192" g="192" b="64" autoscale="0" speed="1.0000000000" maintainpitch="0" reverse="0">
+                <linked/>
+                <effect name="Distort/Transform" enabled="1">
+                    <row>
+                        <field id="posx" value="960"/>
+                        <field id="posy" value="540"/>
+                    </row>
+                    <row>
+                        <field id="scalex" value="100"/>
+                        <field id="scaley" value="100"/>
+                    </row>
+                    <row>
+                        <field id="uniformscale" value="1"/>
+                    </row>
+                    <row>
+                        <field id="rotation" value="0"/>
+                    </row>
+                    <row>
+                        <field id="anchorx" value="0"/>
+                        <field id="anchory" value="0"/>
+                    </row>
+                    <row>
+                        <field id="opacity" value="100"/>
+                    </row>
+                    <row>
+                        <field id="blendmode" value=""/>
+                    </row>
+                </effect>
+                <effect name="Render/Rich Text" enabled="1">
+                    <row>
+                        <field id="text" value="&lt;!DOCTYPE HTML PUBLIC &quot;-//W3C//DTD HTML 4.0//EN&quot; &quot;http://www.w3.org/TR/REC-html40/strict.dtd&quot;&gt;&#10;&lt;html&gt;&lt;head&gt;&lt;meta name=&quot;qrichtext&quot; content=&quot;1&quot; /&gt;&lt;style type=&quot;text/css&quot;&gt;&#10;p, li { white-space: pre-wrap; }&#10;&lt;/style&gt;&lt;/head&gt;&lt;body style=&quot; font-family:'MS Shell Dlg 2'; font-size:7.8pt; font-weight:400; font-style:normal;&quot;&gt;&#10;&lt;p align=&quot;center&quot; style=&quot; margin-top:0px; margin-bottom:0px; margin-left:0px; margin-right:0px; -qt-block-indent:0; text-indent:0px;&quot;&gt;&lt;span style=&quot; font-size:51.8pt;&quot;&gt;Pogledajte u drvo&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;"/>
+                    </row>
+                    <row>
+                        <field id="padding" value="0"/>
+                    </row>
+                    <row>
+                        <field id="posx" value="0"/>
+                        <field id="posy" value="0"/>
+                    </row>
+                    <row>
+                        <field id="valign" value="132"/>
+                    </row>
+                    <row>
+                        <field id="autoscroll" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadow" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowcolor" value="#000000"/>
+                    </row>
+                    <row>
+                        <field id="shadowangle" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowdistance" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowsoftness" value="0"/>
+                    </row>
+                    <row>
+                        <field id="shadowopacity" value="0"/>
+                    </row>
+                </effect>
+            </clip>
+        </sequence>
+    </sequences>
+</project>
